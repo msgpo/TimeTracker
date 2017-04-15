@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

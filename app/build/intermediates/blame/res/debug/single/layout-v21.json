@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

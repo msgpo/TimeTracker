@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/backup_restore.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/backup_restore.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/github_circle.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/github_circle.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/copyright.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/copyright.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/sort_descending.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/sort_descending.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/information_outline.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/information_outline.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/mdtp_done_background_color_dark.xml",
+        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/drawable/mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/close_red.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/close_red.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/arrow_top_right.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/arrow_top_right.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/plus.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/plus.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/ic_magnify.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/ic_magnify.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/timelapse.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/timelapse.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/juergen/.android/build-cache/7d2e64c2e9c56985c37821a095f82d19b042b99d/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/earth2.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/earth2.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/format_list_bulleted2.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/format_list_bulleted2.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/juergen/.android/build-cache/7d2e64c2e9c56985c37821a095f82d19b042b99d/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/delete.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/delete.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/mdtp_material_button_background.xml",
+        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/drawable/mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/juergen/.android/build-cache/7d2e64c2e9c56985c37821a095f82d19b042b99d/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/juergen/.android/build-cache/7d2e64c2e9c56985c37821a095f82d19b042b99d/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/mdtp_material_button_selected.xml",
+        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/drawable/mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/juergen/.android/build-cache/7d2e64c2e9c56985c37821a095f82d19b042b99d/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/coin.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/coin.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/playlist_check.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/playlist_check.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/comment_text_outline.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/comment_text_outline.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/settings.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/settings.xml"
+    }
+]

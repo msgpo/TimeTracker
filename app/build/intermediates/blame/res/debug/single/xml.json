@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/xml/file_paths.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/xml/backup_descriptor.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/xml/backup_descriptor.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/xml/user_settings.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/xml/user_settings.xml"
+    }
+]

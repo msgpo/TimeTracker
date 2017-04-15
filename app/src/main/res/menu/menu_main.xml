@@ -1,0 +1,88 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.baumann.timetracker.Activity_Main">
+
+
+    <item
+        android:id="@+id/action_summary"
+        android:orderInCategory="100"
+        android:title="@string/action_summary"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_filter"
+        android:orderInCategory="100"
+        android:title="@string/action_filter"
+        android:icon="@drawable/ic_magnify"
+        app:showAsAction="ifRoom" >
+        <!-- "file" submenu -->
+        <menu>
+            <item
+                android:id="@+id/filter_startTime"
+                android:title="@string/action_filter_startTime" >
+                <!-- "file" submenu -->
+                <menu>
+                    <item android:id="@+id/filter_own"
+                        android:title="@string/filter_own" />
+                    <item android:id="@+id/filter_month"
+                        android:title="@string/filter_month" />
+                    <item android:id="@+id/filter_before"
+                        android:title="@string/filter_before" />
+                    <item android:id="@+id/filter_yesterday"
+                        android:title="@string/filter_yesterday" />
+                    <item android:id="@+id/filter_today"
+                        android:title="@string/filter_today" />
+                </menu>
+            </item>
+            <item
+                android:id="@+id/filter_task"
+                android:title="@string/action_filter_task" >
+                <!-- "file" submenu -->
+                <menu>
+                    <item android:id="@+id/filter_taskOwn"
+                        android:title="@string/filter_own" />
+                    <item android:id="@+id/filter_taskList"
+                        android:title="@string/filter_list" />
+                </menu>
+            </item>
+            <item
+                android:id="@+id/filter_com"
+                android:title="@string/action_filter_com" >
+                <!-- "file" submenu -->
+                <menu>
+                    <item android:id="@+id/filter_comOwn"
+                        android:title="@string/filter_own" />
+                    <item android:id="@+id/filter_comList"
+                        android:title="@string/filter_list" />
+                </menu>
+            </item>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_sort"
+        android:orderInCategory="100"
+        android:title="@string/action_sort"
+        android:icon="@drawable/sort_descending"
+        app:showAsAction="ifRoom" >
+        <!-- "file" submenu -->
+        <menu>
+            <item android:id="@+id/time_start"
+                android:title="@string/action_sort_start" />
+            <item android:id="@+id/time_task"
+                android:title="@string/action_sort_task" />
+            <item android:id="@+id/time_com"
+                android:title="@string/action_sort_com" />
+            <item android:id="@+id/time_dur"
+                android:title="@string/action_sort_dur" />
+        </menu>
+    </item>
+
+</menu>

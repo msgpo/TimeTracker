@@ -1,0 +1,205 @@
+<resources>
+
+    <string name="app_name">Time Tracker</string>
+    <string name="app_tasks">Tasks</string>
+    <string name="app_comments">Comments</string>
+    <string name="app_newEntry">New entry</string>
+    <string name="app_permissions_title">Used permissions</string>
+    <string name="app_permissions">
+
+        &lt;i>Access Storage Permission:&lt;/i>&lt;br>
+        &#8226; Backup: backup databases on sd card and restore them.&lt;br>
+        &#8226; Summary: create summaries as text files on sd card.&lt;br>&lt;br>
+
+        &lt;i>Grant permissions later:&lt;/i>&lt;br>
+        If you don\'t permit this now, you can do it later. Please open then \"Settings -> App info\" and choose \"Permissions\".</string>
+
+
+    // Toasts
+
+    <string name="toast_yes">OK</string>
+    <string name="toast_cancel">Cancel</string>
+    <string name="toast_share">Share</string>
+    <string name="toast_share_use">Share with:</string>
+    <string name="toast_share_text">Share text</string>
+    <string name="toast_share_textFile">Share text file</string>
+    <string name="toast_error">Sorry, something went wrong.</string>
+
+    <string name="toast_save">Cancel editing the current entry?</string>
+    <string name="toast_newStart">Entry already exists. Please select other start time.</string>
+    <string name="toast_newEnd">End time must be after start time.</string>
+    <string name="toast_edit">Please pick correct start and end time.</string>
+    <string name="toast_newTitle">Entry already exists. Please select other title.</string>
+
+    <string name="toast_restore">Restore successful.</string>
+    <string name="toast_backup">Backup successful.</string>
+    <string name="toast_delete">Successfully deleted.</string>
+
+    <string name="toast_shortcut">Shortcut successfully created.</string>
+    <string name="toast_confirmation">Delete selected data? Are you sure?</string>
+    <string name="toast_confirmation_title">Confirmation</string>
+
+
+    // Menu
+
+    <string name="action_settings">Settings</string>
+    <string name="action_summary">Summary</string>
+
+    <string name="action_sort">Sort entries</string>
+    <string name="action_sort_task">by tasks</string>
+    <string name="action_sort_dur">by duration</string>
+    <string name="action_sort_start">by start time</string>
+    <string name="action_sort_com">by comments</string>
+
+    <string name="action_filter">Search</string>
+    <string name="action_filter_task">Search in tasks</string>
+    <string name="action_filter_com">Search in comments</string>
+    <string name="action_filter_startTime">Search in start times</string>
+
+    <string name="filter_today">Today</string>
+    <string name="filter_yesterday">Yesterday</string>
+    <string name="filter_before">Day before yesterday</string>
+    <string name="filter_month">This month</string>
+    <string name="filter_own">Own search</string>
+    <string name="filter_list">Choose from list</string>
+
+
+    // Activity entries
+
+    <string name="search_hint">Enter search term</string>
+    <string name="entry_days">days</string>
+    <string name="entry_hours">hours</string>
+    <string name="entry_minutes">minutes</string>
+    <string name="entry_total">Total time:</string>
+    <string name="entry_delete">Delete entry?</string>
+    <string name="entry_select">Select an entry</string>
+
+    <string name="sort_task">Tasks</string>
+    <string name="sort_dur">Duration</string>
+    <string name="sort_start">Start time</string>
+    <string name="sort_com">Comments</string>
+
+    <string name="share_task">Task:</string>
+    <string name="share_com">Comment:</string>
+    <string name="share_start">Start time:</string>
+    <string name="share_dur">Duration:</string>
+
+
+    // Activity lists
+
+    <string name="editEntry_title">Edit entry</string>
+    <string name="editEntry_save">Entry saved</string>
+    <string name="editEntry_hint">Edit title</string>
+
+
+
+    // Edit Entry
+
+    <string name="entry_title">Edit entry</string>
+    <string name="entry_hintStart">Pick start time</string>
+    <string name="entry_hintEnd">Pick end time</string>
+    <string name="entry_hintGo">Start record now</string>
+    <string name="entry_hintGo_2">End record now</string>
+    <string name="entry_hintCom">Enter comment</string>
+    <string name="entry_hintTask">Enter task</string>
+    <string name="entry_hintClear">Clear all</string>
+    <string name="entry_hintSave">Save</string>
+
+
+    // Settings
+
+    <string name="pref_1">Data</string>
+    <string name="pref_2">Application</string>
+
+    <string name="pref_editTasks">Tasks</string>
+    <string name="pref_editTasks_summary">Edit tasks list. Click on an entry to edit, long click to delete.</string>
+
+    <string name="pref_editComments">Comments</string>
+    <string name="pref_editComments_summary">Edit comments list. Click on an entry to edit, long click to delete.</string>
+
+    <string name="pref_backup">Backup</string>
+    <string name="pref_backup_all">… all of them</string>
+    <string name="pref_backup_tasks">Tasks list</string>
+    <string name="pref_backup_comments">Comments list</string>
+    <string name="pref_backup_entries">Entries</string>
+    <string name="pref_backup_restore">Restore</string>
+    <string name="pref_backup_summary">Backup your database to sdcard or restore it. A new backup always overwrites the old one.</string>
+
+    <string name="pref_openSettings">Settings</string>
+    <string name="pref_openSettings_summary">Open via the system settings the app info of the app. There you can,
+        depending on your Android version, manage several things (Storage, network traffic, permissions, …).</string>
+
+    <string name="pref_delete">Delete</string>
+    <string name="pref_delete_summary">Delete your saved entries or lists.</string>
+
+    <string name="pref_license">About</string>
+    <string name="pref_license_summary">Learn more about this app (changelog, license, …).</string>
+
+    <string name="pref_shortcut">Shortcut</string>
+    <string name="pref_shortcut_summary">Create a shortcut an your homescreen to make a new entry.</string>
+
+
+    // About
+    <string name="about_title">Copyright © 2016  by Gaukler Faun</string>
+
+    <string name="about_changelog">Changelog</string>
+    <string name="about_changelog_summary">Open Github site and see what\'s new … (needs internet connection)</string>
+
+    <string name="about_license">License</string>
+    <string name="about_license_summary">The app is licensed under GPL and completely open source and free (as in freedom).</string>
+    <string name="about_license_text">
+        For more information visit the project site on github: https://github.com/scoute-dich/Browser&lt;br>&lt;br>
+
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see http://www.gnu.org/licenses.
+    </string>
+
+    <string name="about_intro">Intro</string>
+    <string name="about_intro_summary">Show the intro screen one more time.</string>
+
+    <string name="about_dev_title">Developer</string>
+    <string name="about_dev">Gaukler Faun</string>
+    <string name="about_dev_summary">Open my profile on Github (needs internet connection).</string>
+
+    <string name="about_donate">Donate</string>
+    <string name="about_donate_summary">If you like the app, you can donate to me via Paypal (needs internet connection).</string>
+
+    <string name="about_libs_title">Used open source libraries</string>
+    <string name="about_license_1">Used to build the intro screen.</string>
+    <string name="about_license_2">Used to create the \"About screen\".</string>
+    <string name="about_license_3">Date picker dialogs in the \"Edit entry activity\".</string>
+    <string name="about_license_4">The source of nearly all icons.</string>
+
+
+    // Intro
+
+    <string name="intro_skip">Skip</string>
+    <string name="intro_finish">Let\'s start.</string>
+
+    <string name="intro1_title">Time Tracker</string>
+    <string name="intro1_text">Thank you for choosing \"Time Tracker\". It\'s fully open source and still in development.
+        Here\'s a short intro how to use …</string>
+
+    <string name="intro2_title">Settings</string>
+    <string name="intro2_text">Here you can handle the databases of the application: fill the tasks and the comments list,
+    backup and restore or delete them.</string>
+
+    <string name="intro3_title">Entries</string>
+    <string name="intro3_text">In a popup dialog you can create new entries or edit existing ones. You can fill in tasks or
+    comments from your lists.</string>
+
+    <string name="intro4_title">Notifications</string>
+    <string name="intro4_text">If you click the \"Start record now\" button, you receive a notification from where you can end
+        and save the recording. But now …</string>
+
+</resources>

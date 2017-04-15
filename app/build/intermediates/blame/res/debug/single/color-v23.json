@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/juergen/.android/build-cache/7d2e64c2e9c56985c37821a095f82d19b042b99d/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

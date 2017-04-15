@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/qc_entry_plus.png",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/mipmap-xxxhdpi/qc_entry_plus.png"
+    }
+]
