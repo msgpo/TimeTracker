@@ -7,3 +7,6 @@
 /.idea/
 !/app/build/
 /build/
+/app/build/
+/app/src/androidTest/
+/app/src/test/
