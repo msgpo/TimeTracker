@@ -72,12 +72,12 @@
         "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/drawable/mdtp_done_background_color_dark.xml"
     },
     {
-        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/close_red.xml",
-        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/close_red.xml"
-    },
-    {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
         "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/close_red.xml",
+        "source": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/src/main/res/drawable/close_red.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",

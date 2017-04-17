@@ -36,7 +36,7 @@
     <string name="toast_delete">Successfully deleted.</string>
 
     <string name="toast_shortcut">Shortcut successfully created.</string>
-    <string name="toast_confirmation">Delete selected data? Are you sure?</string>
+    <string name="toast_confirmation">Delete selected database? Are you sure?</string>
     <string name="toast_confirmation_title">Confirmation</string>
 
 
@@ -102,8 +102,8 @@
     <string name="entry_hintGo_2">End record now</string>
     <string name="entry_hintCom">Enter comment</string>
     <string name="entry_hintTask">Enter task</string>
-    <string name="entry_hintClear">Clear all</string>
     <string name="entry_hintSave">Save</string>
+    <string name="entry_not">Not yet set</string>
 
 
     // Settings
@@ -136,7 +136,7 @@
     <string name="pref_license_summary">Learn more about this app (changelog, license, …).</string>
 
     <string name="pref_shortcut">Shortcut</string>
-    <string name="pref_shortcut_summary">Create a shortcut an your homescreen to make a new entry.</string>
+    <string name="pref_shortcut_summary">Create a shortcut on your homescreen to make a new entry.</string>
 
 
     // About
@@ -148,7 +148,7 @@
     <string name="about_license">License</string>
     <string name="about_license_summary">The app is licensed under GPL and completely open source and free (as in freedom).</string>
     <string name="about_license_text">
-        For more information visit the project site on github: https://github.com/scoute-dich/Browser&lt;br>&lt;br>
+        For more information visit the project site on Github: https://github.com/scoute-dich/timetracker&lt;br>&lt;br>
 
         This program is free software: you can redistribute it and/or modify
         it under the terms of the GNU General Public License as published by
@@ -200,6 +200,6 @@
 
     <string name="intro4_title">Notifications</string>
     <string name="intro4_text">If you click the \"Start record now\" button, you receive a notification from where you can end
-        and save the recording. But now …</string>
+        and save the recording.</string>
 
 </resources>

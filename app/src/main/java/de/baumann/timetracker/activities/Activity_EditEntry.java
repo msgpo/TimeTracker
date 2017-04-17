@@ -205,20 +205,6 @@ public class Activity_EditEntry extends AppCompatActivity
             }
         });
 
-        TextView button_clear = (TextView) findViewById(R.id.button_clear);
-        button_clear.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                helper.put_entrySeqno(activity, "");
-                helper.put_entryDur(activity, "");
-                button_start.setText(R.string.entry_hintStart);
-                button_end.setText(R.string.entry_hintEnd);
-                et_task.setText("");
-                et_com.setText("");
-                setButtons();
-            }
-        });
-
 
         // Spinners
 
@@ -392,6 +378,9 @@ public class Activity_EditEntry extends AppCompatActivity
 
                 String date = format.format(Calendar.getInstance().getTime());
 
+                SimpleDateFormat format_time = new SimpleDateFormat("HH:mm", Locale.getDefault());
+                String time = format_time.format(Calendar.getInstance().getTime());
+
                 if (entry_start.equals(getString(R.string.entry_hintStart))) {
                     button_start.setText(date);
                     setButtons();
@@ -399,8 +388,20 @@ public class Activity_EditEntry extends AppCompatActivity
                     android.content.Intent iMain = new android.content.Intent(activity, Activity_EditEntry.class);
                     PendingIntent piMain = PendingIntent.getActivity(activity, 0, iMain, 0);
 
-                    String title = getString(R.string.share_task) + " " + entry_task;
-                    String bigText = getString(R.string.share_com) + " " + entry_comment + " | " + entry_start;
+                    String title;
+                    String bigText;
+
+                    if (!entry_task.isEmpty()) {
+                        title = getString(R.string.share_task) + " " + entry_task;
+                    } else {
+                        title = getString(R.string.share_task) + " " + getString(R.string.entry_not);
+                    }
+
+                    if (!entry_comment.isEmpty()) {
+                        bigText = getString(R.string.share_com) + " " + entry_comment + " | " + time;
+                    } else {
+                        bigText = getString(R.string.share_com) + " " + getString(R.string.entry_not) + " | " + time;
+                    }
 
                     Notification notification = new NotificationCompat.Builder(activity)
                             .setColor(ContextCompat.getColor(activity, R.color.colorPrimary))

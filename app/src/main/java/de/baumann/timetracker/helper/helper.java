@@ -101,8 +101,7 @@ public class helper {
         String hours = Long.toString(diffHours);
         String minutes = Long.toString(diffMinutes);
 
-        return activity.getString(R.string.entry_total) + " " +
-                days + " " + activity.getString(R.string.entry_days) + " " +
+        return days + " " + activity.getString(R.string.entry_days) + " " +
                 hours + " " + activity.getString(R.string.entry_hours) + " " +
                 minutes + " " + activity.getString(R.string.entry_minutes);
     }

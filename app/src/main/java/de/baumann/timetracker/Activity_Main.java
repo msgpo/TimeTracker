@@ -230,7 +230,8 @@ public class Activity_Main extends AppCompatActivity {
             sharedPref.edit().putString("total_time", String.valueOf(dur_new)).apply();
         }
 
-        tv_total.setText(helper.dur_long(activity, sharedPref.getString("total_time", "")));
+        tv_total.setText(activity.getString(R.string.entry_total) + " " +
+                helper.dur_long(activity, sharedPref.getString("total_time", "")));
     }
 
     @Override
@@ -493,7 +494,7 @@ public class Activity_Main extends AppCompatActivity {
                                 writer.close();
 
                                 Intent sharingIntent = new Intent(Intent.ACTION_SEND);
-                                sharingIntent.setType("text/plain");
+                                sharingIntent.setType("text/txt");
                                 sharingIntent.putExtra(Intent.EXTRA_SUBJECT, getString(R.string.action_summary));
                                 sharingIntent.putExtra(Intent.EXTRA_TEXT, text);
 

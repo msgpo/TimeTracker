@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zeiterfassung</string>
+    <string name="app_tasks">Aufgaben</string>
+    <string name="app_comments">Kommentare</string>
+    <string name="app_newEntry">Neuer Eintrag</string>
+    <string name="app_permissions_title">Gebrauchte Berechtigung</string>
+    <string name="app_permissions">
+
+        &lt;i>Zugriff auf Gerätespeicher:&lt;/i>&lt;br>
+        &#8226; Sicherung: Dtenbanken auf der SD-Karte sichern und wieder herstellen.&lt;br>
+        &#8226; Zusammenfassung: als Textdatei erstellen und auf der SD-Karte speichern.&lt;br>&lt;br>
+
+        &lt;i>Berechtigung später erteilen:&lt;/i>&lt;br>
+        Wenn du Berechtigung jetzt nicht erteilst, kannst du dies später tun. Öffne dafür \"Einstellungen -> App info\"
+        und wähle dann \"Berechtigungen\" aus.</string>
+
+
+    // Toasts
+
+    <string name="toast_yes">OK</string>
+    <string name="toast_cancel">Abbrechen</string>
+    <string name="toast_share">Teilen</string>
+    <string name="toast_share_use">Teilen über:</string>
+    <string name="toast_share_text">Text teilen</string>
+    <string name="toast_share_textFile">Textdatei teilen</string>
+    <string name="toast_error">Entschuldigung, etwas lief schief.</string>
+
+    <string name="toast_save">Bearbeitung des Eintrags abbrechen?</string>
+    <string name="toast_newStart">Eintrag existiert bereits. Wähle bitte eine andere Startzeit.</string>
+    <string name="toast_newEnd">Endzeit muss nach der Startzeit sein.</string>
+    <string name="toast_edit">Wähle richtige Start- und Endzeit aus.</string>
+    <string name="toast_newTitle">Eintrag existiert bereits. Wähle bitte einen anderen Titel.</string>
+
+    <string name="toast_restore">Wiederherstellung erfolgreich.</string>
+    <string name="toast_backup">Sicherung erfolgreich.</string>
+    <string name="toast_delete">Erfolgreich gelöscht.</string>
+
+    <string name="toast_shortcut">Verknüpfung erfolgreich erstellt.</string>
+    <string name="toast_confirmation">Ausgewählte Datenbank löschen? Bist du sicher?</string>
+    <string name="toast_confirmation_title">Bestätigung</string>
+
+
+    // Menu
+
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_summary">Zusammenfassung</string>
+
+    <string name="action_sort">Einträge sortieren</string>
+    <string name="action_sort_task">nach Aufgaben</string>
+    <string name="action_sort_dur">nach Dauer</string>
+    <string name="action_sort_start">nach Startzeit</string>
+    <string name="action_sort_com">nach Kommentaren</string>
+
+    <string name="action_filter">Suche</string>
+    <string name="action_filter_task">nach Aufgaben</string>
+    <string name="action_filter_com">nach Kommentaren</string>
+    <string name="action_filter_startTime">nach Startzeit</string>
+
+    <string name="filter_today">Heute</string>
+    <string name="filter_yesterday">Gestern</string>
+    <string name="filter_before">Vorgestern</string>
+    <string name="filter_month">Dieser Monat</string>
+    <string name="filter_own">Eigene Suche</string>
+    <string name="filter_list">Von Liste</string>
+
+
+    // Activity entries
+
+    <string name="search_hint">Suchbegriff eingeben</string>
+    <string name="entry_days">Tage</string>
+    <string name="entry_hours">Stunden</string>
+    <string name="entry_minutes">Minuten</string>
+    <string name="entry_total">Gesamt:</string>
+    <string name="entry_delete">Eintrag löschen?</string>
+    <string name="entry_select">Eintrag auswählen</string>
+
+    <string name="sort_task">Aufgaben</string>
+    <string name="sort_dur">Dauer</string>
+    <string name="sort_start">Startzeit</string>
+    <string name="sort_com">Kommentare</string>
+
+    <string name="share_task">Aufgabe:</string>
+    <string name="share_com">Kommentar:</string>
+    <string name="share_start">Startzeit:</string>
+    <string name="share_dur">Dauer:</string>
+
+
+    // Activity lists
+
+    <string name="editEntry_title">Eintrag bearbeiten</string>
+    <string name="editEntry_save">Eintrag gespeichert</string>
+    <string name="editEntry_hint">Titel bearbeiten</string>
+
+
+
+    // Edit Entry
+
+    <string name="entry_title">Eintrag bearbeiten</string>
+    <string name="entry_hintStart">Startzeit auswählen</string>
+    <string name="entry_hintEnd">Endzeit auswählen</string>
+    <string name="entry_hintGo">Aufzeichnung starten</string>
+    <string name="entry_hintGo_2">Aufzeichnung beenden</string>
+    <string name="entry_hintCom">Kommentar einfügen</string>
+    <string name="entry_hintTask">Aufgabe einfügen</string>
+    <string name="entry_hintSave">Speichern</string>
+    <string name="entry_not">Nicht ausgewählt</string>
+
+
+    // Settings
+
+    <string name="pref_1">Daten</string>
+    <string name="pref_2">Anwendung</string>
+
+    <string name="pref_editTasks">Aufgaben</string>
+    <string name="pref_editTasks_summary">Bearbeite die Aufgabenliste. Klicke einen Eintrag an, um ihn zu bearbeiten, drücke ihn
+        lang um ihn zu löschen.</string>
+
+    <string name="pref_editComments">Kommentare</string>
+    <string name="pref_editComments_summary">Bearbeite die Kommentarliste. Klicke einen Eintrag an, um ihn zu bearbeiten, drücke
+        ihn lang um ihn zu löschen.</string>
+
+    <string name="pref_backup">Sicherung</string>
+    <string name="pref_backup_all">… alles</string>
+    <string name="pref_backup_tasks">Aufgabenliste</string>
+    <string name="pref_backup_comments">Kommentarliste</string>
+    <string name="pref_backup_entries">Einträge</string>
+    <string name="pref_backup_restore">Wiederherstellung</string>
+    <string name="pref_backup_summary">Sichere deine Datenbanken auf der SD-Karte oder stelle sie weider her. Eine neue
+        Sicherung überschreibt immer die alte.</string>
+
+    <string name="pref_openSettings">Einstellungen</string>
+    <string name="pref_openSettings_summary">Öffne über die Systemeinstellungen die\"App-Info\" von \"Zeiterfassung\". Hier
+        kannst du, je nach Androisversion verschiedene Einstellungen vornehmen (Speicher, Netzwerkverkehr, Berechtigungen, …).</string>
+
+    <string name="pref_delete">Löschen</string>
+    <string name="pref_delete_summary">Lösche deine gespeicherten Einträge oder Listen.</string>
+
+    <string name="pref_license">Über</string>
+    <string name="pref_license_summary">Erfahre mehr über \"Zeiterfassung\" (Änderungen, Lizenz, …).</string>
+
+    <string name="pref_shortcut">Verknüpfung</string>
+    <string name="pref_shortcut_summary">Erstelle eine Verknüpfung auf deinem Startschirm, um schnell einen neuen EIntrag anlegen
+        zu können</string>
+
+
+    // About
+    <string name="about_title">Copyright © 2016  by Gaukler Faun</string>
+
+    <string name="about_changelog">Änderunegn</string>
+    <string name="about_changelog_summary">Öffne die Githubseite und erfahre, was es Neues gibt … (braucht Internetverbindung)</string>
+
+    <string name="about_license">Lizenz</string>
+    <string name="about_license_summary">\"Zeiterfassung\" steht uneter der GPL Lizenz. Der Quellcode ist einsehbar und die App ist
+        komplett frei (wie in Freiheit).</string>
+    <string name="about_license_text">
+        Besuche für mehr Informationen die Seite auf Github: https://github.com/scoute-dich/timetracker&lt;br>&lt;br>
+
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see http://www.gnu.org/licenses.
+    </string>
+
+    <string name="about_intro">Einführung</string>
+    <string name="about_intro_summary">Schaue dir noch einmal den Einführungsdialog an.</string>
+
+    <string name="about_dev_title">Entwickler</string>
+    <string name="about_dev">Gaukler Faun</string>
+    <string name="about_dev_summary">Öffne mein Githubprofil (braucht Internetverbindung).</string>
+
+    <string name="about_donate">Spenden</string>
+    <string name="about_donate_summary">Wenn du \"Zeiterfassung\" nützlich findest, kannst du mir über Paypal spenden
+        (braucht Internetverbindung).</string>
+
+    <string name="about_libs_title">Gebrauchte Open Source Bibliotheken</string>
+    <string name="about_license_1">Gebraucht für die Einführung.</string>
+    <string name="about_license_2">Gebraucht für den \"Über die App Schirm\".</string>
+    <string name="about_license_3">Gebraucht für die Datums- und Zeitauswahldialoge im \"Eintrag bearbeiten Schirm\".</string>
+    <string name="about_license_4">Die Quelle von fast allen Icons.</string>
+
+
+    // Intro
+
+    <string name="intro_skip">Überspringen</string>
+    <string name="intro_finish">Los geht\'s.</string>
+
+    <string name="intro1_title">Zeiterfassung</string>
+    <string name="intro1_text">Danke, dass du dich für \"Zeiterfassung\" entschieden hast. Die App ist quelloffen und befindet sich noch in
+        der Entwicklung. Hier eine kurze Einführung …</string>
+
+    <string name="intro2_title">Einstellungen</string>
+    <string name="intro2_text">Hier kannst du die Datenbanken der Anwendung verwalten: die Aufgaben- und Kommentarliste mit Einträgen
+        füllen, Datenbanken sichern, wiederherstellen oder löschen.</string>
+
+    <string name="intro3_title">Einträge</string>
+    <string name="intro3_text">In einem Popüpdialog kannst du neue Einträge anlegen oder bestehende bearbeiten. ASufgaben und Kommentare
+        kannst du direkt aus deinen gespeicherten Listen füllen.</string>
+
+    <string name="intro4_title">Benachrichtigungen</string>
+    <string name="intro4_text">Wenn du den \"Aufzeichnung starten\" Knopf drückst, erscheint eine Benachrichtigung, von wo aus du die
+        Aufzeichnung stoppen und speichern kannst.</string>
+
+</resources>

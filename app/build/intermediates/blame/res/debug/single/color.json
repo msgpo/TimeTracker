@@ -36,20 +36,20 @@
         "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color/mdtp_done_text_color.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/color/mdtp_done_text_color.xml"
-    },
-    {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color/mdtp_date_picker_year_selector.xml",
         "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/color/mdtp_date_picker_year_selector.xml"
     },
     {
-        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color/mdtp_date_picker_selector.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/color/mdtp_date_picker_selector.xml"
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color/mdtp_done_text_color.xml",
+        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/color/mdtp_done_text_color.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
         "source": "/home/juergen/.android/build-cache/93903f247d3f67a9cffbf8bcb392440c4609bcdb/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color/mdtp_date_picker_selector.xml",
+        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/color/mdtp_date_picker_selector.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",

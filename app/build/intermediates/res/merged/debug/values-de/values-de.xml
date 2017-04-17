@@ -19,6 +19,102 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Freigeben für %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="about_changelog">Changelog</string>
+    <string name="about_changelog_summary">Open Github site and see what\'s new … (needs internet connection)</string>
+    <string name="about_dev">Gaukler Faun</string>
+    <string name="about_dev_summary">Open my profile on Github (needs internet connection).</string>
+    <string name="about_dev_title">Developer</string>
+    <string name="about_donate">Donate</string>
+    <string name="about_donate_summary">If you like the app, you can donate to me via Paypal (needs internet connection).</string>
+    <string name="about_intro">Intro</string>
+    <string name="about_intro_summary">Show the intro screen one more time.</string>
+    <string name="about_libs_title">Used open source libraries</string>
+    <string name="about_license">License</string>
+    <string name="about_license_1">Used to build the intro screen.</string>
+    <string name="about_license_2">Used to create the \"About screen\".</string>
+    <string name="about_license_3">Date picker dialogs in the \"Edit entry activity\".</string>
+    <string name="about_license_4">The source of nearly all icons.</string>
+    <string name="about_license_summary">The app is licensed under GPL and completely open source and free (as in freedom).</string>
+    <string name="about_license_text">
+        For more information visit the project site on github: https://github.com/scoute-dich/timetracker&lt;br>&lt;br>
+
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see http://www.gnu.org/licenses.
+    </string>
+    <string name="about_title">Copyright © 2016  by Gaukler Faun</string>
+    <string name="action_filter">Suche</string>
+    <string name="action_filter_com">nach Kommentaren</string>
+    <string name="action_filter_startTime">nach Startzeit</string>
+    <string name="action_filter_task">nach Aufgaben</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_sort">Einträge sortieren</string>
+    <string name="action_sort_com">nach Kommentaren</string>
+    <string name="action_sort_dur">nach Dauer</string>
+    <string name="action_sort_start">nach Startzeit</string>
+    <string name="action_sort_task">nach Aufgaben</string>
+    <string name="action_summary">Zusammenfassung</string>
+    <string name="app_comments">Kommentare</string>
+    <string name="app_name">Zeiterfassung</string>
+    <string name="app_newEntry">Neuer Eintrag</string>
+    <string name="app_permissions">
+
+        &lt;i>Zugriff auf Gerätespeicher:&lt;/i>&lt;br>
+        • Sicherung: Dtenbanken auf der SD-Karte sichern und wieder herstellen.&lt;br>
+        • Zusammenfassung: als Textdatei erstellen und auf der SD-Karte speichern.&lt;br>&lt;br>
+
+        &lt;i>Berechtigung später erteilen:&lt;/i>&lt;br>
+        Wenn du Berechtigung jetzt nicht erteilst, kannst du dies später tun. Öffne dafür \"Einstellungen -> App info\"
+        und wähle dann \"Berechtigungen\" aus.</string>
+    <string name="app_permissions_title">Gebrauchte Berechtigung</string>
+    <string name="app_tasks">Aufgaben</string>
+    <string name="editEntry_hint">Titel bearbeiten</string>
+    <string name="editEntry_save">Eintrag gespeichert</string>
+    <string name="editEntry_title">Eintrag bearbeiten</string>
+    <string name="entry_days">Tage</string>
+    <string name="entry_delete">Eintrag löschen?</string>
+    <string name="entry_hintCom">Kommentar einfügen</string>
+    <string name="entry_hintEnd">Endzeit auswählen</string>
+    <string name="entry_hintGo">Aufzeichnung starten</string>
+    <string name="entry_hintGo_2">Aufzeichnung beenden</string>
+    <string name="entry_hintSave">Speichern</string>
+    <string name="entry_hintStart">Startzeit auswählen</string>
+    <string name="entry_hintTask">Aufgabe einfügen</string>
+    <string name="entry_hours">Stunden</string>
+    <string name="entry_minutes">Minuten</string>
+    <string name="entry_not">Nicht ausgewählt</string>
+    <string name="entry_select">Eintrag auswählen</string>
+    <string name="entry_title">Eintrag bearbeiten</string>
+    <string name="entry_total">Gesamt:</string>
+    <string name="filter_before">Vorgestern</string>
+    <string name="filter_list">Von Liste</string>
+    <string name="filter_month">Dieser Monat</string>
+    <string name="filter_own">Eigene Suche</string>
+    <string name="filter_today">Heute</string>
+    <string name="filter_yesterday">Gestern</string>
+    <string name="intro1_text">Thank you for choosing \"Time Tracker\". It\'s fully open source and still in development.
+        Here\'s a short intro how to use …</string>
+    <string name="intro1_title">Time Tracker</string>
+    <string name="intro2_text">Here you can handle the databases of the application: fill the tasks and the comments list,
+    backup and restore or delete them.</string>
+    <string name="intro2_title">Settings</string>
+    <string name="intro3_text">In a popup dialog you can create new entries or edit existing ones. You can fill in tasks or
+    comments from your lists.</string>
+    <string name="intro3_title">Entries</string>
+    <string name="intro4_text">If you click the \"Start record now\" button, you receive a notification from where you can end
+        and save the recording.</string>
+    <string name="intro4_title">Notifications</string>
+    <string name="intro_finish">Let\'s start.</string>
+    <string name="intro_skip">Skip</string>
     <string name="mal_close">Schließen</string>
     <string name="mal_title_about">Über</string>
     <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
@@ -34,6 +130,55 @@
     <string msgid="8327182090226828481" name="mdtp_select_minutes">"Minuten auswählen"</string>
     <string msgid="2603330600102539372" name="mdtp_select_year">"Jahr auswählen"</string>
     <string msgid="6963340404644587098" name="mdtp_year_picker_description">"Jahresliste"</string>
+    <string name="pref_1">Data</string>
+    <string name="pref_2">Application</string>
+    <string name="pref_backup">Backup</string>
+    <string name="pref_backup_all">… all of them</string>
+    <string name="pref_backup_comments">Comments list</string>
+    <string name="pref_backup_entries">Entries</string>
+    <string name="pref_backup_restore">Restore</string>
+    <string name="pref_backup_summary">Backup your database to sdcard or restore it. A new backup always overwrites the old one.</string>
+    <string name="pref_backup_tasks">Tasks list</string>
+    <string name="pref_delete">Delete</string>
+    <string name="pref_delete_summary">Delete your saved entries or lists.</string>
+    <string name="pref_editComments">Comments</string>
+    <string name="pref_editComments_summary">Edit comments list. Click on an entry to edit, long click to delete.</string>
+    <string name="pref_editTasks">Tasks</string>
+    <string name="pref_editTasks_summary">Edit tasks list. Click on an entry to edit, long click to delete.</string>
+    <string name="pref_license">About</string>
+    <string name="pref_license_summary">Learn more about this app (changelog, license, …).</string>
+    <string name="pref_openSettings">Settings</string>
+    <string name="pref_openSettings_summary">Open via the system settings the app info of the app. There you can,
+        depending on your Android version, manage several things (Storage, network traffic, permissions, …).</string>
+    <string name="pref_shortcut">Shortcut</string>
+    <string name="pref_shortcut_summary">Create a shortcut on your homescreen to make a new entry.</string>
+    <string name="search_hint">Suchbegriff eingeben</string>
     <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="share_com">Kommentar:</string>
+    <string name="share_dur">Dauer:</string>
+    <string name="share_start">Startzeit:</string>
+    <string name="share_task">Aufgabe:</string>
+    <string name="sort_com">Kommentare</string>
+    <string name="sort_dur">Dauer</string>
+    <string name="sort_start">Startzeit</string>
+    <string name="sort_task">Aufgaben</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="toast_backup">Sicherung erfolgreich.</string>
+    <string name="toast_cancel">Abbrechen</string>
+    <string name="toast_confirmation">Ausgewählte Datenbank löschen? Bist du sicher?</string>
+    <string name="toast_confirmation_title">Bestätigung</string>
+    <string name="toast_delete">Erfolgreich gelöscht.</string>
+    <string name="toast_edit">Wähle richtige Start- und Endzeit aus.</string>
+    <string name="toast_error">Entschuldigung, etwas lief schief.</string>
+    <string name="toast_newEnd">Endzeit muss nach der Startzeit sein.</string>
+    <string name="toast_newStart">Eintrag existiert bereits. Wähle bitte eine andere Startzeit.</string>
+    <string name="toast_newTitle">Eintrag existiert bereits. Wähle bitte einen anderen Titel.</string>
+    <string name="toast_restore">Wiederherstellung erfolgreich.</string>
+    <string name="toast_save">Bearbeitung des Eintrags abbrechen?</string>
+    <string name="toast_share">Teilen</string>
+    <string name="toast_share_text">Text teilen</string>
+    <string name="toast_share_textFile">Textdatei teilen</string>
+    <string name="toast_share_use">Teilen über:</string>
+    <string name="toast_shortcut">Verknüpfung erfolgreich erstellt.</string>
+    <string name="toast_yes">OK</string>
 </resources>
