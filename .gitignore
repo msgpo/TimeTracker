@@ -10,3 +10,8 @@
 /app/build/
 /app/src/androidTest/
 /app/src/test/
+/gradle/
+/gradlew.bat
+/gradlew
+/gradle.properties
+/app/proguard-rules.pro
