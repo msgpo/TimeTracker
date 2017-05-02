@@ -1,4 +1,4 @@
-#Mon Apr 17 11:08:44 CEST 2017
+#Wed Apr 19 18:33:57 CEST 2017
 file.2=/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7697a9dd5cfc02d2e68bf4c21d920a456aeebbf/classes.dex
 base.2=/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7697a9dd5cfc02d2e68bf4c21d920a456aeebbf
 file.1=/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c235b9e5321d8eb0278cb241b2c146171e6aa919/classes.dex
