@@ -6,34 +6,34 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1493709836082"
+    timestamp="1493974516563"
     token="3642162822231538417"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="642" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="20" />
     <task
         name="verifier"
-        duration="0" />
+        duration="5" />
 
     <artifact
-        location="/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1493709763460"
+        timestamp="1493974305726"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
+            location="/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
         <artifact
             location="/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
@@ -59,22 +59,22 @@
             location="/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1493709836082"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1493974516563"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

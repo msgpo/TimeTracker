@@ -73,7 +73,7 @@ public class DbAdapter_Tasks {
     public Cursor fetchAllData() {
 
         String[] columns = new String[]{"_id", "tasks_task"};
-        return sqlDb.query(dbTable, columns, null, null, null, null, "tasks_task");
+        return sqlDb.query(dbTable, columns, null, null, null, null, "tasks_task"  + " COLLATE NOCASE ASC;");
     }
 
     /**

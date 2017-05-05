@@ -79,16 +79,28 @@ public class DbAdapter_Entries {
         String[] columns = new String[]{"_id", "time_task", "time_com", "time_dur","time_start","time_end"};
 
         if (sp.getString("sortDB", "time_task").equals("time_task")) {
-            return sqlDb.query(dbTable, columns, null, null, null, null, "time_task");
+            return sqlDb.query(dbTable, columns, null, null, null, null, "time_task" + " COLLATE NOCASE ASC;");
 
         } else if (sp.getString("sortDB", "time_task").equals("time_dur")) {
-            return sqlDb.query(dbTable, columns, null, null, null, null, "time_dur");
+
+            String orderBy = "time_dur" + "," +
+                    "time_task" + " COLLATE NOCASE ASC;";
+
+            return sqlDb.query(dbTable, columns, null, null, null, null, orderBy);
 
         } else if (sp.getString("sortDB", "time_task").equals("time_start")) {
-            return sqlDb.query(dbTable, columns, null, null, null, null, "time_start");
+
+            String orderBy = "time_start" + "," +
+                    "time_task" + " COLLATE NOCASE ASC;";
+
+            return sqlDb.query(dbTable, columns, null, null, null, null, orderBy);
 
         } else if (sp.getString("sortDB", "time_task").equals("time_com")) {
-            return sqlDb.query(dbTable, columns, null, null, null, null, "time_com");
+
+            String orderBy = "time_com" + "," +
+                    "time_task" + " COLLATE NOCASE ASC;";
+
+            return sqlDb.query(dbTable, columns, null, null, null, null, orderBy);
         }
 
         return null;

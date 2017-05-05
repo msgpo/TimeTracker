@@ -72,7 +72,7 @@ public class DbAdapter_Comments {
     //fetch data
     public Cursor fetchAllData() {
         String[] columns = new String[]{"_id", "comments_task"};
-        return sqlDb.query(dbTable, columns, null, null, null, null, "comments_task");
+        return sqlDb.query(dbTable, columns, null, null, null, null, "comments_task" + " COLLATE NOCASE ASC;");
     }
 
     /**
