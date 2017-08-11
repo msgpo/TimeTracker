@@ -1,4 +1,4 @@
-#Wed Apr 19 18:33:57 CEST 2017
+#Fri Aug 11 17:59:13 CEST 2017
 base.0=/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
 renamed.0=classes.dex
 file.0=/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

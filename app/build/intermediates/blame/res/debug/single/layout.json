@@ -1,7 +1,7 @@
 [
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/activity_onboarder.xml",
-        "source": "/home/juergen/.android/build-cache/686fce9931680eb3e30f98d6133cd721d59564cd/output/res/layout/activity_onboarder.xml"
+        "source": "/home/juergen/.android/build-cache/0ac73ccaf65dc5d94aa40ed5081bf35d5ff05e71/output/res/layout/activity_onboarder.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
@@ -29,7 +29,7 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_time_title_view.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_time_title_view.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_time_title_view.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
@@ -61,7 +61,7 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_view_animator.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_date_picker_view_animator.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_date_picker_view_animator.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -81,7 +81,7 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/fragment_onboarder.xml",
-        "source": "/home/juergen/.android/build-cache/686fce9931680eb3e30f98d6133cd721d59564cd/output/res/layout/fragment_onboarder.xml"
+        "source": "/home/juergen/.android/build-cache/0ac73ccaf65dc5d94aa40ed5081bf35d5ff05e71/output/res/layout/fragment_onboarder.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
@@ -89,7 +89,7 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_year_label_text_view.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_year_label_text_view.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_year_label_text_view.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
@@ -101,7 +101,7 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mal_material_about_action_item.xml",
-        "source": "/home/juergen/.android/build-cache/88b9db6b2a0145d4a40a4c6bc71521f2ae3ec8d9/output/res/layout/mal_material_about_action_item.xml"
+        "source": "/home/juergen/.android/build-cache/b8a9e24a4bf73bdc50aeebf3650706f453f83464/output/res/layout/mal_material_about_action_item.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
@@ -121,11 +121,11 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mal_material_about_fragment.xml",
-        "source": "/home/juergen/.android/build-cache/88b9db6b2a0145d4a40a4c6bc71521f2ae3ec8d9/output/res/layout/mal_material_about_fragment.xml"
+        "source": "/home/juergen/.android/build-cache/b8a9e24a4bf73bdc50aeebf3650706f453f83464/output/res/layout/mal_material_about_fragment.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_time_picker_dialog_v2.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_time_picker_dialog_v2.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_time_picker_dialog_v2.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
@@ -153,7 +153,7 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mal_material_about_activity.xml",
-        "source": "/home/juergen/.android/build-cache/88b9db6b2a0145d4a40a4c6bc71521f2ae3ec8d9/output/res/layout/mal_material_about_activity.xml"
+        "source": "/home/juergen/.android/build-cache/b8a9e24a4bf73bdc50aeebf3650706f453f83464/output/res/layout/mal_material_about_activity.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
@@ -161,7 +161,7 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_dialog_v2.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_date_picker_dialog_v2.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_date_picker_dialog_v2.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
@@ -173,7 +173,7 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mal_material_about_title_item.xml",
-        "source": "/home/juergen/.android/build-cache/88b9db6b2a0145d4a40a4c6bc71521f2ae3ec8d9/output/res/layout/mal_material_about_title_item.xml"
+        "source": "/home/juergen/.android/build-cache/b8a9e24a4bf73bdc50aeebf3650706f453f83464/output/res/layout/mal_material_about_title_item.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/activity_entry_edit.xml",
@@ -209,11 +209,11 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_time_header_label.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_time_header_label.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_time_header_label.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_header_view_v2.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_date_picker_header_view_v2.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_date_picker_header_view_v2.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
@@ -229,19 +229,19 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_selected_date_v2.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_date_picker_selected_date_v2.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_date_picker_selected_date_v2.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mal_material_about_list_card.xml",
-        "source": "/home/juergen/.android/build-cache/88b9db6b2a0145d4a40a4c6bc71521f2ae3ec8d9/output/res/layout/mal_material_about_list_card.xml"
+        "source": "/home/juergen/.android/build-cache/b8a9e24a4bf73bdc50aeebf3650706f453f83464/output/res/layout/mal_material_about_list_card.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_date_time_picker_dialog.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_date_time_picker_dialog.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_date_time_picker_dialog.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_time_title_view_v2.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_time_title_view_v2.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_time_title_view_v2.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/dialog_edit_title.xml",
@@ -249,11 +249,11 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_dialog.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_date_picker_dialog.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_date_picker_dialog.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_header_view.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_date_picker_header_view.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_date_picker_header_view.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -293,11 +293,11 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_selected_date.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_date_picker_selected_date.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_date_picker_selected_date.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_done_button.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_done_button.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_done_button.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/list_item_lists.xml",
@@ -309,7 +309,7 @@
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/mdtp_time_picker_dialog.xml",
-        "source": "/home/juergen/.android/build-cache/6ea3ae78dcda78a912a669b12ee2cf88638f7c15/output/res/layout/mdtp_time_picker_dialog.xml"
+        "source": "/home/juergen/.android/build-cache/3b018c93393e93213289555bf7f593af14af0db9/output/res/layout/mdtp_time_picker_dialog.xml"
     },
     {
         "merged": "/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
