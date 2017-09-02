@@ -1,7 +1,0 @@
-#Fri Aug 11 17:59:13 CEST 2017
-base.0=/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_91f5d3bf995fb25ba1519ff0534f19478a73c002
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f9a7acfb5d4d1341148c98a9ede9b8bdd86214b9/classes.dex
-base.1=/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f9a7acfb5d4d1341148c98a9ede9b8bdd86214b9
-file.0=/home/juergen/Projekte/Android/Android_Studio/TimeTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_91f5d3bf995fb25ba1519ff0534f19478a73c002/classes.dex
